@@ -1,0 +1,32 @@
+  @import url('https://fonts.googleapis.com/css?family=Roboto');
+
+header {
+	padding-top: 10px;	
+}
+
+footer{
+	text-align: center;
+	margin-top: 5px;	
+	padding: 5px;
+}
+
+.alterar-fonte {
+	font-style: normal;
+	font-family: 'Roboto', sans-serif;	
+}
+
+.alterar-fonte h1{
+	font-size: 45px;
+}
+
+.alterar-fonte h2{
+	font-size: 15px;
+}
+
+.print{
+	margin: 10px;
+}
+
+.perfil{
+	display: inline-block;
+}
